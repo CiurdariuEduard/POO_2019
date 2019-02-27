@@ -10,10 +10,10 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            World w1 = new World("ET1");
+            World w1 = new World("Viorica");
             w1.SayHello();
 
-            World w2 = new World("ET2");
+            World w2 = new World("Dancila");
             w2.SayHello();
 
             World w3 = new World();
